@@ -15,14 +15,9 @@
         android:text="Hello World!"
         android:id="@+id/textView" />
 
-    <CheckBox
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New CheckBox"
-        android:id="@+id/checkBox"
-        android:checked="false"
-        android:layout_below="@+id/textView"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginTop="40dp" />
+        android:text="Hello you!"
+        android:id="@+id/textViee" />
 </RelativeLayout>
